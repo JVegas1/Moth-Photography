@@ -15,6 +15,17 @@ background-image: url('src/Album\ 1\ cover.jpg');
 
 }
 
+#story {
+  text-shadow: #f5f2fe;
+  color: black;
+}
+
+#cmi {
+  text-align: center;
+
+}
+
+
 .album {
 background-image: url('src/cover.jpeg');
   background-repeat: no-repeat;
