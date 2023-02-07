@@ -1,0 +1,138 @@
+
+.index {
+background-image: url('src/cover.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: black;
+  
+}
+
+.ind {
+background-image: url('src/Album\ 1\ cover.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: black;
+
+}
+
+.album {
+background-image: url('src/cover.jpeg');
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-color: black;
+  
+
+}
+
+#slides {
+width: 30%;
+height: 30%;
+
+}
+
+.carousel-control-next {
+border: -200px;
+}
+
+
+.info {
+     text-align: end;
+   position: relative;
+}
+
+
+.links {
+     text-align: end;
+   position: relative;
+ 
+}
+
+#linkOne {
+  color: #f5f2fe;
+opacity: 90%;
+
+}
+
+
+
+#linkTwo {
+  color: #f5f2fe;
+  opacity: 85%;
+
+}
+
+#linkThree {
+  color: #f5f2fe;
+opacity: 80%;
+padding-right: 30px;
+}
+
+
+
+h2 {
+  font-size: 48px;
+text-align: end;
+  color: white;
+opacity: 80%;
+}
+
+
+.nav-link {
+  color: white;
+  
+}
+.nav-link:hover {
+  color: white;
+  text-decoration: underline;
+}
+
+.nav-link:after {
+  color: whitesmoke;
+}
+
+.btn {
+  color: #f5f2fe;
+  border-color: antiquewhite;
+  
+}
+
+#enter {
+  padding-right: 30px;
+  padding-left: 35px;
+  position: relative;
+  margin-right: 100px;
+}
+
+@media (max-width: 0px) {
+  img {
+    display: none;
+  }
+}
+.hero p {
+  background: var(--secondary-color);
+
+  border-radius: 4px;
+  font-size: 18px;
+  line-height: 1.5;
+  text-align: center;
+}
+
+
+.card {
+    justify-content: space-around;
+    background-color: #1f293700;
+    transition: ease-in .5s;
+    color: white;
+ 
+    border: none;
+   padding-top: 300px;
+}
+
+
+.card:hover {
+    color: #f9faf8;
+}
+
+
+
+
