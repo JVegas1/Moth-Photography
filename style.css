@@ -18,6 +18,8 @@ background-image: url('src/Album\ 1\ cover.jpg');
 #story {
   text-shadow: #000000;
   color: rgb(255, 255, 255);
+font-weight: light;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 #cmi {
