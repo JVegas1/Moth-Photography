@@ -3,30 +3,67 @@
 background-image: url('src/cover.jpeg');
   background-repeat: no-repeat;
   background-size: cover;
-  background-color: black;
+  background-color: transparent;
   
 }
 
 .ind {
 background-image: url('src/Album\ 1\ cover.jpg');
   background-repeat: no-repeat;
-  background-size: cover;
+background-size: 1700px;
   background-color: black;
+   font-family: 'Quicksand', sans-serif;
+}
 
+.indy {
+background-image: url('src/Album\ 2\ cover.jpg');
+  background-repeat: no-repeat;
+background-size: cover;
+  background-color: black;
+   font-family: 'Quicksand', sans-serif;
+   align-content: center;
+}
+
+.text-white {
+
+text-align: center;
+}
+.srvs {
+  width: 200px, 200px;
+  justify-content: end;
+}
+
+.indd {
+background-image: url('src/Apollo.png');
+  background-repeat: no-repeat;
+background-size: auto;
+  background-color: black;
+   font-family: 'Quicksand', sans-serif;
 }
 
 #story {
   text-shadow: #000000;
   color: rgb(255, 255, 255);
 font-weight: light;
-font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   font-family: 'Quicksand', sans-serif;
+
 }
 
 #cmi {
   text-align: center;
-
+   font-family: 'Quicksand', sans-serif;
+color: rgb(217, 217, 217);
 }
 
+.BLM {
+ size: 80px;
+}
+
+.services {
+  background-color: #000000;
+
+  
+}
 
 .album {
 background-image: url('src/cover.jpeg');
@@ -37,15 +74,20 @@ background-image: url('src/cover.jpeg');
 
 }
 
+
+
+
+
 #slides {
-width: 30%;
-height: 30%;
+width: 20%;
+height: 20%;
 
 }
 
 .carousel-control-next {
 border: -200px;
 }
+
 
 
 .info {
