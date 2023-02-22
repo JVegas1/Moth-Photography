@@ -255,7 +255,7 @@ opacity: 80%;
 
        @media (max-width: 767px) {
         .index {
-          background-size: contain;
-          
+          background-size: cover;
+          background-color: #000000;
         }
       }
