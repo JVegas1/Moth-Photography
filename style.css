@@ -242,13 +242,13 @@ opacity: 80%;
 
  }
 
- @media screen and (max-width: 0px) {
+ 
  .MP {
-  margin-left: 50px;
- }}
+  margin-left: 40px;
+ }
 
     @media (max-width: 300px) {
-        .indexside, .MPm .text-white {
+        .indexside, .MP, .text-white {
           display: none;
         }
       }
