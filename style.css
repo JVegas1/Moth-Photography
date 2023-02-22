@@ -231,10 +231,10 @@ opacity: 80%;
   }
 }
 
-@media (max-width: 200px) {
-  img, .indexside, .MP {
+@media (max-width: 600px) {
+  img, .MP {
     display: none;
-   visibility: hidden;
+    min-width: fit-content;
   }}
 
  .indexside {
@@ -242,7 +242,13 @@ opacity: 80%;
 
  }
 
- @media screen and (min-width: 300px) {
+ @media screen and (max-width: 0px) {
  .MP {
   margin-left: 50px;
  }}
+
+    @media (max-width: 300px) {
+        .indexside {
+          display: none;
+        }
+      }
