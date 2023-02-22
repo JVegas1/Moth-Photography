@@ -242,7 +242,7 @@ opacity: 80%;
 
  }
 
- @media screen and (max-width: 600px) {
+ @media screen and (max-width: 0px) {
  .MP {
   margin-left: 50px;
  }}
