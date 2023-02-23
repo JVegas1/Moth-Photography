@@ -245,5 +245,6 @@ opacity: 80%;
   .indexside, .MP, .text-white{
     display: none;
     visibility: hidden;
+    background-color: #000000;
   }
 }
