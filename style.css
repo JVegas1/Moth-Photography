@@ -246,16 +246,3 @@ opacity: 80%;
  .MP {
   margin-left: 30px;
  }
-
-   
-
-        @media (max-width: 767px) {
-        .index, .indexside {
-          display: none;
-        }
-      }
-      @media (min-width: 768px) {
-        .index, .indexside {
-          display: block;
-        }
-      }
