@@ -252,5 +252,7 @@ opacity: 80%;
   #navbar {
     display: flex;
     visibility: visible;
+    flex: auto;
+    
   }
 }
