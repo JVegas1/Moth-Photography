@@ -244,18 +244,18 @@ opacity: 80%;
 
  
  .MP {
-  margin-left: 40px;
+  margin-left: 30px;
  }
 
-    @media (max-width: 767px) {
-        .indexside, .MP, .text-white {
+   
+
+        @media (min-width: 768px) {
+        .index, .indexside {
           display: none;
         }
       }
-
-       @media (max-width: 767px) {
-        .index {
-          background-size: cover;
-          background-color: #000000;
+      @media (min-width: 992px) {
+        .index, .indexside {
+          display: block;
         }
       }
