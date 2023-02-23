@@ -249,12 +249,12 @@ opacity: 80%;
 
    
 
-        @media (min-width: 768px) {
+        @media (max-width: 767px) {
         .index, .indexside {
           display: none;
         }
       }
-      @media (min-width: 992px) {
+      @media (min-width: 768px) {
         .index, .indexside {
           display: block;
         }
